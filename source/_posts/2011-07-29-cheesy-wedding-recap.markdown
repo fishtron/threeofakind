@@ -5,13 +5,13 @@ date: 2011-07-29 20:24:59 -07:00
 ---
 Our wedding was everything I wanted it to be: simple, small, spontaneous, sweet. Seventy close friends and family gathered to witness our special day, the eldest being our grandparents -- M's grandma drove all the way across the country! -- and the youngest was mere months old. Some travelled around half the globe to be here. We were so honoured and happy to see and visit with everyone.
 
-{% img http://placekitten.com/200/133 Setting up chairs and stuff %}
+{% img left http://placekitten.com/200/133 Setting up chairs and stuff %}
 
 The most beautiful part was that we didn't do it alone. Everyone took part and creating something that weekend and helped make it the awesome party that it was.
 
 The original desire to be more DIY came from wanting to be cheap (heh heh). The end result, however, was really way better than anything we could have bought for money...
 
-<img src="http://threeofakind.ca/wedding/assets_c/2011/07/uncleb-pig-thumb-200x133-10.jpg" width="200" height="133" alt="uncleb-pig.jpg" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" />
+{% img right http://placekitten.com/200/133 Uncle B brought a roast pig %}
 
 M and I want to give our sincerest thanks for sharing a wonderful weekend with us. I only wish we had more time...
 
