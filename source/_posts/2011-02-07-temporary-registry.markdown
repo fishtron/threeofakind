@@ -3,7 +3,10 @@ layout: post
 title: Temporary Registry
 date: 2011-02-07 23:33:46 -08:00
 ---
-This is a static list that will serve as our temporary registry until Matt and Lois finally code up the registry app. Yes, we're writing it ourselves because we want something simpler yet more flexible than what's available out there. (Perhaps we also like punishment.) (That's not part of the registry, though.)
+This is a static list that will serve as our temporary registry until Matt and
+Lois finally code up the registry app. Yes, we're writing it ourselves because
+we want something simpler yet more flexible than what's available out there.
+(Perhaps we also like punishment.) (That's not part of the registry, though.)
 
 <!--more-->
 
@@ -18,5 +21,6 @@ This is a static list that will serve as our temporary registry until Matt and L
 * Canning equipment: metal funnel, jar lifter, racks
 * Oven mitts
 * Heirloom seeds
-* Cookbooks: Momofuku, Nobu, Feenie, Vij, Evaleen Roy's _Four Chefs One Garden_, etc.
+* Cookbooks: Momofuku, Nobu, Feenie, Vij, Evaleen Roy's _Four Chefs One Garden_,
+  etc.
 * Your favourite recipes
