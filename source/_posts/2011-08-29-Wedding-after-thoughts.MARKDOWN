@@ -2,6 +2,7 @@
 layout: post
 title: Wedding Afterthoughts
 date: 2011-08-29 20:24:59 -07:00
+author: Matthew
 ---
 
 Wedding afterthoughts:

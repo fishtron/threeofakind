@@ -2,6 +2,7 @@
 layout: post
 title: Cheesy Wedding Recap
 date: 2011-07-29 20:24:59 -07:00
+author: Lois
 ---
 {% img right /images/2011/07/29/chairs.jpg 300 200 Andrei and Tara setting up chairs %}
 
