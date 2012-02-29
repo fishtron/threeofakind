@@ -8,7 +8,7 @@ author: Lois
 tags: wedding
 ---
 
-{% img left /images/2012/01/03/nicolb.jpg 200 Nicolb with GIR (photo by Gerald Deo) %}
+{% img left /images/2012/01/03/tents.jpg 789 we had several meals under these tents (photo by Gerald Deo) %}
 
 Matt and I were certain of what we wanted, though translating them into reality would take a bit of work. We knew we wanted a place where our friends and relatives could stick around for a few days and enjoy the surrounds. We've also heard stories of frugal weddings, to which we would often turn for inspiration. This quickly ruled out a city wedding -- in Vancouver, weddings equal big business, and we'd heard plenty of horror stories of how much other people's weddings cost. 
 
