@@ -6,7 +6,7 @@ comments: true
 categories: 
 tags: wedding
 author: Lois
-published: false
+published: true
 ---
 
 {% img left /images/2012/02/29/nicolb-ball.jpg 500 Nicolb with a ball (photo by Gerald Deo) %}
