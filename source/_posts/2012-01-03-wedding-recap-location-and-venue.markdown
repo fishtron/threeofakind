@@ -5,6 +5,7 @@ date: 2012-01-03 14:52
 comments: true
 categories: 
 author: Lois
+tags: wedding
 ---
 
 {% img left /images/2012/01/03/nicolb.jpg 200 Nicolb with GIR (photo by Gerald Deo) %}
