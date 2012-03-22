@@ -13,7 +13,7 @@ published: true
 
 It began with the groomsmen's vests.
 
-Matt and I looked at what's available for rent, and narrowed it down to one style. When we looked at them in person, he had liked the lime green and aqua blue versions. I liked the green colour as well, but for the gals. I thought a darker colour would look better on the dudes, so I picked a royal purple to pair with the green (which is one of my favourite pairings ***of all time***). Matt didn't like that very much though. He'd rather have the aqua vests. Which I matched with a hot pink.
+Matt and I looked at what's available for rent, and narrowed it down to one stylew in eitherlime green and aqua blue versions. I liked the green colour as well, but for the gals. I thought a darker colour would look better on the dudes, so I picked a royal purple to pair with the green (which is one of my favourite pairings ***of all time***). Matt didn't like that very much though. He'd rather have the aqua vests. Which I matched with a hot pink.
 
 For the wedding party, we went with minimal tailoring and purchasing -- black cocktail dresses for the ladies, and dress shirts and trousers for the dudes. Kristen made pink felt flowers for the ladies. The flower girl was the only one who had to purchase a new dress. Bare feet because I could not find shoes and hated shoe-shopping, and Kristen saved the day with pink nail polish. The daisy crown was made the morning-of.
 
