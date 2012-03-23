@@ -6,7 +6,7 @@ comments: true
 categories: 
 tags: wedding
 author: Lois
-published: false
+published: true
 ---
 {% img left /images/2012/03/rings.jpg 300 both rings in my hand (photo by Gerald Deo) %}
 
