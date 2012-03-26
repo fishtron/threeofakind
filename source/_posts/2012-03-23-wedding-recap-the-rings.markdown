@@ -8,7 +8,7 @@ tags: wedding
 author: Lois
 published: true
 ---
-{% img left /images/2012/03/rings.jpg 300 both rings in my hand (photo by Gerald Deo) %}
+{% img left /images/2012/03/rings.jpg 381 both rings in my hand (photo by Gerald Deo) %}
 
 The rings were mainly Matt's doing. So I'll just post a couple of pictures and describe them generally, and let him tell you all about them (either as a blog post later or when you come over for dinner!).
 
