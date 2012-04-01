@@ -9,9 +9,20 @@
 //$sidebar-link-color: saturate(#526f9a, 10);
 //$sidebar-link-color-hover: darken(#7ab662, 9);
 
+$pink: #FF1493;
+$brown: #24170C;
+$cream: #fff3d8;
+$aqua: #0F9590;
+
+$link-color: $pink;
+$link-color-visited: $aqua;
+$page-bg: $brown;
+//$main-bg: lighten($cream, 4);
+//$nav-bg: adjust-color($cream, $lightness: -30, $saturation: -40);
+//$sidebar-bg: $cream;
 
 /* To use the light Solarized highlighting theme uncomment the following line */
-//$solarized: light
+//$solarized: light;
 
 /* If you want to tweak the Solarized colors you can do that here */
 //$base03:          #002b36; //darkest blue
