@@ -18,7 +18,7 @@ $link-color: $pink;
 $link-color-visited: $aqua;
 $page-bg: $brown;
 //$main-bg: lighten($cream, 4);
-//$nav-bg: lighten($cream, 4);
+//$nav-bg: adjust-color($cream, $lightness: -30, $saturation: -40);
 //$sidebar-bg: $cream;
 
 /* To use the light Solarized highlighting theme uncomment the following line */
