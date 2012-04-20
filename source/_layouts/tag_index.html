@@ -3,9 +3,7 @@ layout: page
 footer: false
 ---
 
-{{ site.posts[page.tag] }}
-
-<div id="blog-archives">
+<div id="blog-archives" class="tags">
 {% for post in site.posts %}
 {% for tag in post.tags %}
 {% if tag == page.tag %}

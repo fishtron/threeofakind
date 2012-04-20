@@ -15,6 +15,15 @@ h1 {
   text-transform: uppercase;
 }
 
-p {
+.entry-content p {
   line-height: 1.1em;
+}
+
+.byline ~ .tags:before {
+  @extend .separator;
+}
+
+.tags {
+  color: #888;
+  font-size: 0.9em;
 }

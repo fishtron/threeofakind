@@ -1,9 +1,9 @@
 module Jekyll
   class TagIndex < Page
-    def initialize(site, base, dir, tag)
+    def initialize(site, base, tag_dir, tag)
       @site = site
       @base = base
-      @dir = dir
+      @dir = tag_dir
       @name = 'index.html'
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
@@ -13,7 +13,8 @@ module Jekyll
       self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
     end
   end
-  class TagGenerator < Generator
+
+  class GenerateTags < Generator
     safe true
     def generate(site)
       if site.layouts.key? 'tag_index'
@@ -30,4 +31,33 @@ module Jekyll
       site.pages << index
     end
   end
+
+  # Adds some extra filters used during the tag creation process.
+  module Filters
+
+    # Outputs a list of categories as comma-separated <a> links. This is used
+    # to output the tag list for each post on a tag page.
+    #
+    #  +categories+ is the list of categories to format.
+    #
+    # Returns string
+    #
+    def tag_links(categories)
+      dir = @context.registers[:site].config['tag_dir']
+      categories = categories.sort!.map do |item|
+        "<a class='tag' href='/#{dir}/#{item.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
+      end
+
+      case categories.length
+      when 0
+        ""
+      when 1
+        categories[0].to_s
+      else
+        "#{categories[0...-1].join(', ')}, #{categories[-1]}"
+      end
+    end
+
+  end
+
 end

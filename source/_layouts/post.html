@@ -12,6 +12,7 @@ single: true
       {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
       {% include post/categories.html %}
     </p>
+    <p class="meta">{% include post/tags.html %}</p>
     {% unless page.sharing == false %}
       {% include post/sharing.html %}
     {% endunless %}
