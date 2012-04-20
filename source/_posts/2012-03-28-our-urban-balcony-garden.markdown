@@ -5,6 +5,7 @@ date: 2012-03-28 15:02
 comments: true
 categories: 
 tags: 
+  - home & garden
 published: true
 ---
 
