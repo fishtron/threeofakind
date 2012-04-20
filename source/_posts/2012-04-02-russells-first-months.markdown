@@ -8,11 +8,11 @@ tags: russell
 published: true
 ---
 
+{% img left /images/2012/04/xmas-walk.jpg 381 Christmas walk with granny and opa and uncles (wayyy in the back there), tucked into daddy's belly (photo by Lois CP) %}
+
 Lois previously [wrote about Russell's birth story](http://thefishepic.ca/2012/02/my-complete-birth-story) but we haven't updated you on Russell since then. Here's that post you've been waiting for, from Russell's first five months!
 
 <!--more-->
-
-{% img left /images/2012/04/xmas-walk.jpg 381 Christmas walk with granny and opa and uncles (wayyy in the back there), tucked into daddy's belly (photo by Lois CP) %}
 
 October & November -- noticing growth every day: rounder head, darker skin, more time with eyes open. Had baby shower near end of month. Lots of stress from baby and moving, though R quickly settled into new home. R's paperwork got done. Outgrowing some clothes already. Started bed-sharing on day 4 and never looked back. Discovered diaper rash. Squeaks a lot. Showered with gifts at end of November. Loot includes awesome hats from Frances, story books and toys oh my, and enough clothes until he is 2 years old.
 
