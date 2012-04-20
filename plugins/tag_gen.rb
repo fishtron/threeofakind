@@ -35,26 +35,26 @@ module Jekyll
   # Adds some extra filters used during the tag creation process.
   module Filters
 
-    # Outputs a list of categories as comma-separated <a> links. This is used
+    # Outputs a list of tags as comma-separated <a> links. This is used
     # to output the tag list for each post on a tag page.
     #
-    #  +categories+ is the list of categories to format.
+    #  +tags+ is the list of tags to format.
     #
     # Returns string
     #
-    def tag_links(categories)
+    def tag_links(tags)
       dir = @context.registers[:site].config['tag_dir']
-      categories = categories.sort!.map do |item|
+      tags = tags.sort!.map do |item|
         "<a class='tag' href='/#{dir}/#{item.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase}/'>#{item}</a>"
       end
 
-      case categories.length
+      case tags.length
       when 0
         ""
       when 1
-        categories[0].to_s
+        tags[0].to_s
       else
-        "#{categories[0...-1].join(', ')}, #{categories[-1]}"
+        "#{tags[0...-1].join(', ')}, #{tags[-1]}"
       end
     end
 
