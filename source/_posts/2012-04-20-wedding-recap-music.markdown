@@ -6,7 +6,7 @@ comments: true
 categories: 
 tags: wedding
 author: Lois
-published: false
+published: true
 ---
 
 {% img left /images/2012/04/clare.jpg 381 clare, the rock harpist (photo by Gerald Deo) %}
