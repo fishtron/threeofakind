@@ -98,3 +98,9 @@ google_analytics_tracking_id: UA-15264067-2
 
 # Facebook Like
 facebook_like: false
+
+# flickr
+flickr_user: MattPed
+flickr_user_id: 54344153%40N08
+#flickr_thumb_size: s # defaults to s
+#flickr_picture_count: 6 # flickr hard-coded a max of 10; defaults to 5
