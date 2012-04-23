@@ -102,5 +102,6 @@ facebook_like: false
 # flickr
 flickr_user: MattPed
 flickr_user_id: 54344153%40N08
-#flickr_thumb_size: s # defaults to s
-#flickr_picture_count: 6 # flickr hard-coded a max of 10; defaults to 5
+flickr_recent_or_random: random  # recent (default) or random
+flickr_thumb_size: s             # t ("small thumbnails", default), m ("midsized thumbnails"), or s ("square thumbnails")
+flickr_picture_count: 6          # 1 - 10, defaults to 10
