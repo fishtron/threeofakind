@@ -69,7 +69,7 @@ module Jekyll
       lists.each do | tag, counter |
         url = tag_dir + tag.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
         style = "font-size: #{100 + (60 * Float(counter)/max)}%"
-        html << "<a href='#{url}' style='#{style}'>#{tag.capitalize}"
+        html << "<a href='#{url}' style='#{style}'>#{tag}"
         if @opts['counter']
           html << " (#{tags[tag].count})"
         end
