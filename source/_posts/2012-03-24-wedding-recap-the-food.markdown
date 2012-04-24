@@ -4,7 +4,7 @@ title: "Wedding recap: the food"
 date: 2012-03-24 10:23
 comments: true
 categories: 
-tags: wedding
+tags: wedding food
 author: Lois
 published: true
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Temporary Registry
 date: 2011-02-07 23:33:46 -08:00
+tags: wedding
 ---
 This is a static list that will serve as our temporary registry until Matt and
 Lois finally code up the registry app. Yes, we're writing it ourselves because

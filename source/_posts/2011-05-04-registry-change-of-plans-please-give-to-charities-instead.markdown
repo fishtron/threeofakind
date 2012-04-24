@@ -2,6 +2,7 @@
 layout: post
 title: "Registry change-of-plans: please give to charities instead"
 date: 2011-05-04 21:35:07 -07:00
+tags: wedding
 ---
 After some discussion (and agonising over the lack of good wregistry
 solutions... but that's mostly Lois) we have decided to *not want gifts*.
