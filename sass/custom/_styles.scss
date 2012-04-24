@@ -27,3 +27,20 @@ h1 {
   color: #888;
   font-size: 0.9em;
 }
+
+#tag-cloud {
+  font-size: 0.9em;
+}
+
+#tag-cloud a {
+  text-decoration: none;
+}
+
+#tag-cloud a:before {
+  @extend .separator;
+  font-size: 10pt;
+}
+
+#tag-cloud a:first-child:before {
+  content: none;
+}

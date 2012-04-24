@@ -57,6 +57,43 @@ module Jekyll
       lists = {}
       max, min = 1, 1
       config = context.registers[:site].config
+      tag_dir = config['root'] + config['tag_dir'] + '/'
+      tags = context.registers[:site].tags
+      tags.keys.sort_by{ |str| str.downcase }.each do |tag|
+        count = tags[tag].count
+        lists[tag] = count
+        max = count if count > max
+      end
+
+      html = ''
+      lists.each do | tag, counter |
+        url = tag_dir + tag.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
+        style = "font-size: #{100 + (60 * Float(counter)/max)}%"
+        html << "<a href='#{url}' style='#{style}'>#{tag.capitalize}"
+        if @opts['counter']
+          html << " (#{tags[tag].count})"
+        end
+        html << "</a> "
+      end
+      html
+    end
+  end
+
+  class CategoryCloud < Liquid::Tag
+
+    def initialize(tag_name, markup, tokens)
+      @opts = {}
+      if markup.strip =~ /\s*counter:(\w+)/i
+        @opts['counter'] = $1
+        markup = markup.strip.sub(/counter:\w+/i,'')
+      end
+      super
+    end
+
+    def render(context)
+      lists = {}
+      max, min = 1, 1
+      config = context.registers[:site].config
       category_dir = config['root'] + config['category_dir'] + '/'
       categories = context.registers[:site].categories
       categories.keys.sort_by{ |str| str.downcase }.each do |category|
