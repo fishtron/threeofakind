@@ -1,0 +1,13 @@
+<section>
+  <h1>Lois Takes So-So Pictures</h1>
+  <div class="instagram"></div>
+  <script src="{{ root_url }}/javascripts/instagram.js" type="text/javascript"> </script>
+  <script type="text/javascript">
+    $.domReady(function() {
+      getInstagrams({
+          show: 3
+        , clientId: '5b9cb8ffb7124de4943d808c908fac08'
+      });
+    });
+  </script>
+</section>
