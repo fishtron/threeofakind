@@ -71,6 +71,10 @@ function constructParams(settings) {
   return params;
 }
 
+function getAccessToken(settings) {
+
+}
+
 function getInstagrams(options) {
 
   var that = $('.instagram'),
