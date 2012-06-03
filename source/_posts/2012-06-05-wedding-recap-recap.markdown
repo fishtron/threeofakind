@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wedding recap recap"
+title: "Cheesy wedding recap recap"
 date: 2012-06-05 20:28
 comments: true
 categories: 
@@ -18,6 +18,8 @@ I wanted to make a list of all the special things that all the special people di
 - [Wedding-before](https://picasaweb.google.com/115616970160704737475/WeddingBeforeByGeraldDeo?authkey=Gv1sRgCIbqrcLW3v3ZvAE)
 - [Wedding-during](https://picasaweb.google.com/115616970160704737475/WeddingDuringByGeraldDeo?authkey=Gv1sRgCJGiiq_4vvmOeg)
 - [Wedding-after](https://picasaweb.google.com/115616970160704737475/WeddingAfterByGeraldDeo?authkey=Gv1sRgCOPy-PDgrLStigE)
+
+If you're needing prints or something, let Lois know and she'll send you the originals!
 
 ## Other photos
 
