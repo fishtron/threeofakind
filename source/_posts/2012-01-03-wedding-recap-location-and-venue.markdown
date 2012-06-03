@@ -30,7 +30,7 @@ When we arrived in person to confirm the booking, we were immediately enchanted 
 
 It turned out way better than expected. The [helpful fellas of The Rental Stop](http://rentalstop.ca) set up the tent the day before we arrived, Judy spent upwards of an hour getting us all checked in, the weather was holding up, and the dogs were loving all the spare pieces of roast pig that my Uncle Bill brought.
 
-We were apprehnsive at first -- not everyone loves rusticness as much as we do. But when the date rolled around and we heard Clare's beautiful voice ring out across the lake, we knew it would be okay.
+We were apprehnsive at first -- not everyone loves rusticness as much as we do. But when the date rolled around and we heard [Clare's beautiful voice](/blog/2012/04/wedding-recap-music/) ring out across the lake, we knew it would be okay.
 
 {% img /images/2012/01/dock.jpg 789 Shong and Jen on the Cusheon dock (photo by Gerald Deo) %}
 
