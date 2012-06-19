@@ -5,7 +5,7 @@ date: 2012-06-05 20:28
 comments: true
 categories: 
 tags: wedding 
-published: false
+published: true
 author: Lois
 ---
 
