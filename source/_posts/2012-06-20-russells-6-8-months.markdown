@@ -24,6 +24,6 @@ Looked at some of his very-baby photos and he looks SO different. Totally amazed
 
 {% img left /images/2012/06/baby-gate.jpg 381 Matt built a baby gate so that the crawling baby wouldn't fall down the stairs %}
 
-{% img /images/2012/06/big-butt.jpg 381 Russell can "stand" %}
+{% img /images/2012/06/big-butt.jpg 380 Russell can "stand" %}
 
 Previously: [Russell's First Months](/blog/2012/04/russells-first-months)
