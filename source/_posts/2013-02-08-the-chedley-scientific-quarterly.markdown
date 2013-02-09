@@ -31,6 +31,8 @@ A week later, they drove and ferried to Vancouver Island for a third wedding in 
 
 In total they were on six flights. They intend to take advantage of the free airfare for Russell while he is under two years old.
 
+See more pictures in [Matt's summer set](http://www.flickr.com/photos/mattpedley/sets/72157631672353177/) and Lois' [ontario](http://www.flickr.com/photos/36140256@N03/sets/72157631197260180/) and [west kootenays](http://www.flickr.com/photos/36140256@N03/sets/72157631197124670/) sets!
+
 ##Matthew changes job, stays at Hydro
 
 Matthew took a lateral move within BC Hydro to work for the Standards Department.
@@ -38,6 +40,8 @@ Matthew took a lateral move within BC Hydro to work for the Standards Department
 He is currently implementing a standard for a fall-arrest system. A fall-arrest system is needed for crews working on equipment high off the ground. If they slip and fall, such a system is designed to prevent serious injuries and death.
 
 ##Russell turns one, grows eighth tooth
+
+{% img left /images/2013/02/r_teeth.jpg 380 R has a lot of teeth %}
 
 Russell spawned a total of eight teeth this year, just before he turned one.
 
@@ -55,11 +59,13 @@ At around the same time, Lois’ company laid off all its staff due to lack of w
 
 ##Russell remains tiny
 
+{% img left /images/2013/02/r_headphones.jpg 380 R is DJing for us %}
+
 Russell weighed in at 7.25kg at the one-year check-up -- just under seventeen pounds. He is in the bottommost one percentile of the WHO weight-by-age chart.
 
 The doctor advises that we feed him ice-cream (which we do) and sweets (which we do). She also recommends PediaSure, a caloriffic concoction designed to meet the energy and nutritional requirements of a growing toddler. Unfortunately, Russell prefers to pour it on himself than to consume it.
 
-##GIR pukes blood, stressed
+##GIR stressed, pukes blood
 
 The Chedley’s pet terrier was hospitalised overnight for bloody vomit and dehydration.
 
@@ -67,13 +73,15 @@ He has developed a phobia of tape measures, and by extension, all things that co
 
 The Chedleys hope the poor dog adjusts better over time with more exercise and training at home.
 
+{% img /images/2013/02/gir.jpg Wet GIR on a rock %}
+
 ##Matt runs for office
 
 Matt is a candidate in the upcoming BC elections. He is running for the Green Party, whose provincial platform most closely aligns with Matt’s values about the environment and economy.
 
-If you would like to chat policy with him, or strategise, or provide some much-needed financial support, let us know ;)
+If you would like to chat policy with him, or strategise, or provide some much-needed [financial support](https://greenpartybc.nationbuilder.com/donate_to_matthew_pedley), let us know ;)
 
-Website for more info: matthewpedley.ca
+Website for more info, see [Matt's Green Party campaign website](http://matthewpedley.ca).
 
 ##Recipes
 
@@ -107,4 +115,12 @@ The Chedleys have had less time to be adventuresome with their cooking, but stil
 5. Coat tuna steaks with sesame seeds on both sides.
 6. Heat remaining oil in pan to medium high heat.
 7. Sear the tuna. Sesame seeds should be browned and tuna rare.
-8. Serve with cream sauce on top.e
+8. Serve with cream sauce on top.
+
+##Bonus pictures!
+
+{% img left /images/2013/02/r_bolts.jpg 380 R plays with puzzle bolts at the BC Hydro Safety Rodeo %}
+
+{% img /images/2013/02/broom.jpg 380 R walks with gong-gong %}
+
+{% img /images/2013/02/jolly_jumper.jpg R has outgrown the jolly jumper, but not before he turns completely invisible in it %}
