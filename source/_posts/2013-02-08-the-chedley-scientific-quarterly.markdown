@@ -5,9 +5,11 @@ date: 2013-02-08 11:01
 comments: true
 categories: 
 tags: russell girdog food
-published: false
+published: true
 ---
 The somewhat, not-quite regular publication by Lois, Matt, Russell Pedley and Girdog.
+
+This edition is supposed to be the end-of-year summary of 2012.
 
 ##Busy summer
 
