@@ -9,7 +9,7 @@ published: true
 ---
 There is a new Chedley in the world! He arrived on August 21st and his name is Oliver.
 
-We're not really "three" anymore -- as Russell would say, we're now three, "plus one, plus other one" but for some reason Lois refuses to purchase that web address. Also, "five of a kind" is clearly cheating at poker.
+We're not really a threesome anymore -- as Russell would say, we're now three, "plus one, plus other one" but for some reason Lois refuses to purchase that web address. Also, "five of a kind" is clearly cheating at poker.
 
 Suggestions for a new blog name, anybody?
 
