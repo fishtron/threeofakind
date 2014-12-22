@@ -10,7 +10,7 @@ published: true
 ---
 {% img right /images/2012/04/yard.jpg 381 our backyard (photo by Lois) %}
 
-{% img /images/2012/04/yard-before.jpg 381 before the work was done (photo by Matt) %}
+{% img /images/2012/04/yard-before.jpg 380 before the work was done (photo by Matt) %}
 
 A few weeks ago we hired [Ron, a really fantastic landscaper](http://www.swicks.net/) to get our bantam backyard ready for spring. Our bedroom is in the basement and opens outside with sliding glass doors.
 

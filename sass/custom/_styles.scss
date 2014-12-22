@@ -23,6 +23,14 @@ h1 {
   @extend .separator;
 }
 
+li {
+  margin-left: 1.5em;
+}
+
+//
+// TAG CLOUD CUSTOMISATIONS
+//
+
 .tags, .tags a {
   color: #888;
   font-size: 0.9em;

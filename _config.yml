@@ -35,6 +35,11 @@ code_dir: downloads/code
 category_dir: blog/categories
 tag_dir: blog/tags
 markdown: rdiscount
+rdiscount:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 5          # Posts per page on the blog index
@@ -46,7 +51,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [custom/asides/about.html, custom/asides/tag_cloud.html, custom/asides/blogroll.html, custom/asides/flickr.html, asides/twitter.html]
+default_asides: [custom/asides/about.html, custom/asides/tag_cloud.html, custom/asides/blogroll.html, custom/asides/flickr.html, custom/asides/twitter.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -66,10 +71,6 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: girdog
-twitter_tweet_count: 5
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google Plus
